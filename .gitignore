@@ -1,0 +1,10 @@
+__pycache__
+build/
+dist/
+quantaworker.egg-info/
+.idea
+.vscode
+.tox
+.coverage
+.mypy_cache
+venv

@@ -1,0 +1,6 @@
+requests
+types-requests
+pandas
+python-dotenv
+pre-commit
+csv
