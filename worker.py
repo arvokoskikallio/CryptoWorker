@@ -4,11 +4,11 @@ import json
 from datetime import datetime
 from quantaworker import Column, ImportWorker, ValueType, DataSample, InvocationParam, List, Parameter, ImportWorker
 
-class csvWorker(ImportWorker):
+class cryptoWorker(ImportWorker):
 
     @property
     def default_name(self) -> str:
-        "csvtest"
+        "apitest"
 
     @property
     def description(self) -> str:

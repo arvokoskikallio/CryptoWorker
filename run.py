@@ -1,3 +1,2 @@
-from worker import csvWorker
-
-csvWorker().run()
+from worker import cryptoWorker
+cryptoWorker().run()
